@@ -1,6 +1,6 @@
 # java-modules
 
-A sample project to test the Java Platform Modules System feature.
+A sample project to test the Java Platform Modules system feature.
 
 ### Notes
 ---
